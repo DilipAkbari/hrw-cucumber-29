@@ -1,0 +1,160 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 15004927300,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.openBrowser()"
+            }
+          }
+        ],
+        "line": 4,
+        "name": "User should navigate to service page successfully",
+        "description": "",
+        "id": "services-function;user-should-navigate-to-service-page-successfully",
+        "after": [
+          {
+            "result": {
+              "duration": 876556900,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.tearDown(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 206359400,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "I am on Home Page",
+            "match": {
+              "location": "SerivceSteps.iAmOnHomePage()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 362540300,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "I click on services button",
+            "match": {
+              "location": "SerivceSteps.iClickOnServicesButton()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 85560700,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "I should navigate to service page successfully",
+            "match": {
+              "location": "SerivceSteps.iShouldNavigateToServicePageSuccessfully()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 12619807700,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.openBrowser()"
+            }
+          }
+        ],
+        "line": 9,
+        "name": "verify text when user close Service page",
+        "description": "",
+        "id": "services-function;verify-text-when-user-close-service-page",
+        "after": [
+          {
+            "result": {
+              "duration": 916519300,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.tearDown(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 627300,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "I am on Home Page",
+            "match": {
+              "location": "SerivceSteps.iAmOnHomePage()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 479117300,
+              "status": "passed"
+            },
+            "line": 11,
+            "name": "I click on services button",
+            "match": {
+              "location": "SerivceSteps.iClickOnServicesButton()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 124730600,
+              "status": "passed"
+            },
+            "line": 12,
+            "name": "I should navigate to service page successfully",
+            "match": {
+              "location": "SerivceSteps.iShouldNavigateToServicePageSuccessfully()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 286458800,
+              "status": "passed"
+            },
+            "line": 13,
+            "name": "I click on close button",
+            "match": {
+              "location": "SerivceSteps.iClickOnCloseButton()"
+            },
+            "keyword": "And "
+          }
+        ]
+      }
+    ],
+    "name": "Services function",
+    "description": "As a user i want to check the service on Harrow website",
+    "id": "services-function",
+    "keyword": "Feature",
+    "uri": "src/test/java/uk/gov/harrow/resources/featurefile/service.feature"
+  }
+]

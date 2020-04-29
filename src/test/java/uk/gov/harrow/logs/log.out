@@ -1,0 +1,100 @@
+2020-04-28 12:04:809 INFO       BrowserSelector :20 - Launching Chrome Browser
+2020-04-28 12:04:963 INFO       HomePage :23 - Click on login or register link Proxy element for: DefaultElementLocator 'By.xpath: //span[@class='icon-fallback']'
+2020-04-28 12:04:321 INFO       BrowserSelector :20 - Launching Chrome Browser
+2020-04-28 12:04:815 INFO       HomePage :23 - Click on login or register link Proxy element for: DefaultElementLocator 'By.xpath: //span[@class='icon-fallback']'
+2020-04-28 12:04:289 INFO       BrowserSelector :20 - Launching Chrome Browser
+2020-04-28 12:04:961 INFO       HomePage :23 - Click on login or register link Proxy element for: DefaultElementLocator 'By.xpath: //span[@class='icon-fallback']'
+2020-04-28 12:04:61 INFO       LoginPage :34 - Get Welcome Guest text: Proxy element for: DefaultElementLocator 'By.className: navbar-text myprofile_salutation'
+2020-04-28 12:04:753 INFO       BrowserSelector :20 - Launching Chrome Browser
+2020-04-28 12:04:672 INFO       HomePage :23 - Click on login or register link Proxy element for: DefaultElementLocator 'By.xpath: //span[@class='icon-fallback']'
+2020-04-28 12:04:733 INFO       LoginPage :37 - Get Welcome Guest text: [[ChromeDriver: chrome on WINDOWS (618b6eb051221e3a9ef534138af71c96)] -> xpath: //li[@class='navbar-text myprofile_salutation']]
+2020-04-28 12:04:325 INFO       BrowserSelector :20 - Launching Chrome Browser
+2020-04-28 12:04:414 INFO       HomePage :23 - Click on login or register link Proxy element for: DefaultElementLocator 'By.xpath: //span[@class='icon-fallback']'
+2020-04-28 12:04:479 INFO       LoginPage :36 - Get Welcome Guest text: Proxy element for: DefaultElementLocator 'By.className: navbar-text myprofile_salutation'
+2020-04-28 13:04:723 INFO       BrowserSelector :20 - Launching Chrome Browser
+2020-04-28 13:04:598 INFO       HomePage :23 - Click on login or register link Proxy element for: DefaultElementLocator 'By.xpath: //span[@class='icon-fallback']'
+2020-04-28 13:04:648 INFO       LoginPage :36 - Get Welcome Guest text: Proxy element for: DefaultElementLocator 'By.className: navbar-text myprofile_salutation'
+2020-04-28 13:04:234 INFO       BrowserSelector :20 - Launching Chrome Browser
+2020-04-28 13:04:876 INFO       BrowserSelector :20 - Launching Chrome Browser
+2020-04-28 13:04:922 INFO       HomePage :23 - Click on login or register link Proxy element for: DefaultElementLocator 'By.xpath: //span[@class='icon-fallback']'
+2020-04-28 13:04:11 INFO       LoginPage :36 - Get Welcome Guest text: Proxy element for: DefaultElementLocator 'By.className: navbar-text myprofile_salutation'
+2020-04-28 13:04:334 INFO       BrowserSelector :20 - Launching Chrome Browser
+2020-04-29 12:04:511 INFO       BrowserSelector :20 - Launching Chrome Browser
+2020-04-29 12:04:733 INFO       HomePage :23 - Click on login or register link Proxy element for: DefaultElementLocator 'By.xpath: //span[@class='icon-fallback']'
+2020-04-29 12:04:850 INFO       LoginPage :36 - Get Welcome Guest text: Proxy element for: DefaultElementLocator 'By.className: navbar-text myprofile_salutation'
+2020-04-29 12:04:135 INFO       BrowserSelector :20 - Launching Chrome Browser
+2020-04-29 12:04:326 INFO       BrowserSelector :20 - Launching Chrome Browser
+2020-04-29 12:04:596 INFO       BrowserSelector :20 - Launching Chrome Browser
+2020-04-29 12:04:632 INFO       BrowserSelector :20 - Launching Chrome Browser
+2020-04-29 12:04:703 INFO       HomePage :23 - Click on login or register link Proxy element for: DefaultElementLocator 'By.xpath: //span[@class='icon-fallback']'
+2020-04-29 12:04:823 INFO       LoginPage :36 - Get Welcome Guest text: Proxy element for: DefaultElementLocator 'By.className: navbar-text myprofile_salutation'
+2020-04-29 12:04:213 INFO       BrowserSelector :20 - Launching Chrome Browser
+2020-04-29 12:04:88 INFO       BrowserSelector :20 - Launching Chrome Browser
+2020-04-29 12:04:659 INFO       BrowserSelector :20 - Launching Chrome Browser
+2020-04-29 12:04:148 INFO       BrowserSelector :20 - Launching Chrome Browser
+2020-04-29 12:04:496 INFO       HomePage :23 - Click on login or register link Proxy element for: DefaultElementLocator 'By.xpath: //span[@class='icon-fallback']'
+2020-04-29 12:04:544 INFO       LoginPage :33 - Get Welcome Guest text: [[ChromeDriver: chrome on WINDOWS (3fccc47b117bae0796a068750b4ccbee)] -> xpath: //li[@class='navbar-text myprofile_salutation']]
+2020-04-29 12:04:471 INFO       BrowserSelector :20 - Launching Chrome Browser
+2020-04-29 12:04:799 INFO       BrowserSelector :20 - Launching Chrome Browser
+2020-04-29 12:04:943 INFO       BrowserSelector :20 - Launching Chrome Browser
+2020-04-29 12:04:972 INFO       BrowserSelector :20 - Launching Chrome Browser
+2020-04-29 12:04:376 INFO       HomePage :23 - Click on login or register link Proxy element for: DefaultElementLocator 'By.xpath: //span[@class='icon-fallback']'
+2020-04-29 12:04:416 INFO       LoginPage :33 - Get Welcome Guest text: [[ChromeDriver: chrome on WINDOWS (f74defdb33ff9fbea6dddf2a07691b40)] -> xpath: //li[@class='navbar-text myprofile_salutation']]
+2020-04-29 12:04:469 INFO       BrowserSelector :20 - Launching Chrome Browser
+2020-04-29 12:04:281 INFO       BrowserSelector :20 - Launching Chrome Browser
+2020-04-29 12:04:884 INFO       BrowserSelector :20 - Launching Chrome Browser
+2020-04-29 12:04:464 INFO       BrowserSelector :20 - Launching Chrome Browser
+2020-04-29 12:04:51 INFO       HomePage :23 - Click on login or register link Proxy element for: DefaultElementLocator 'By.xpath: //span[@class='icon-fallback']'
+2020-04-29 12:04:89 INFO       LoginPage :33 - Get Welcome Guest text: [[ChromeDriver: chrome on WINDOWS (f2f5548d00220f57ba1ad56bd2a03d4a)] -> xpath: //li[@class='navbar-text myprofile_salutation']]
+2020-04-29 12:04:961 INFO       BrowserSelector :20 - Launching Chrome Browser
+2020-04-29 12:04:512 INFO       BrowserSelector :20 - Launching Chrome Browser
+2020-04-29 12:04:274 INFO       BrowserSelector :20 - Launching Chrome Browser
+2020-04-29 12:04:395 INFO       BrowserSelector :20 - Launching Chrome Browser
+2020-04-29 12:04:746 INFO       HomePage :23 - Click on login or register link Proxy element for: DefaultElementLocator 'By.xpath: //span[@class='icon-fallback']'
+2020-04-29 12:04:787 INFO       LoginPage :30 - get welcome Text[[ChromeDriver: chrome on WINDOWS (beb061454332316c1c13b54b99fad485)] -> xpath: //li[@class='navbar-text myprofile_salutation']]
+2020-04-29 12:04:728 INFO       BrowserSelector :20 - Launching Chrome Browser
+2020-04-29 12:04:124 INFO       HomePage :23 - Click on login or register link Proxy element for: DefaultElementLocator 'By.xpath: //span[@class='icon-fallback']'
+2020-04-29 12:04:408 INFO       LoginPage :36 - enter email[[ChromeDriver: chrome on WINDOWS (5567d67f651e97348d3799450575c951)] -> id: username-input]
+2020-04-29 12:04:607 INFO       LoginPage :41 - enter password[[ChromeDriver: chrome on WINDOWS (5567d67f651e97348d3799450575c951)] -> id: password-input]
+2020-04-29 12:04:679 INFO       LoginPage :46 -  Clicking on Login Button[[ChromeDriver: chrome on WINDOWS (5567d67f651e97348d3799450575c951)] -> xpath: //input[@id='submitBtnSignIn']]
+2020-04-29 12:04:723 INFO       LoginPage :50 - Get Error message text [[ChromeDriver: chrome on WINDOWS (5567d67f651e97348d3799450575c951)] -> xpath: //span[@id='password.errors']]
+2020-04-29 12:04:213 INFO       BrowserSelector :20 - Launching Chrome Browser
+2020-04-29 12:04:633 INFO       BrowserSelector :20 - Launching Chrome Browser
+2020-04-29 12:04:662 INFO       BrowserSelector :20 - Launching Chrome Browser
+2020-04-29 12:04:382 INFO       HomePage :23 - Click on login or register link Proxy element for: DefaultElementLocator 'By.xpath: //span[@class='icon-fallback']'
+2020-04-29 12:04:438 INFO       LoginPage :30 - get welcome Text[[ChromeDriver: chrome on WINDOWS (c67cb93c8da92f02a5a6fcbe47576ddb)] -> xpath: //li[@class='navbar-text myprofile_salutation']]
+2020-04-29 12:04:342 INFO       BrowserSelector :20 - Launching Chrome Browser
+2020-04-29 12:04:672 INFO       HomePage :23 - Click on login or register link Proxy element for: DefaultElementLocator 'By.xpath: //span[@class='icon-fallback']'
+2020-04-29 12:04:950 INFO       LoginPage :36 - enter email[[ChromeDriver: chrome on WINDOWS (91e86c745c704a64e31afbd7266b1265)] -> id: username-input]
+2020-04-29 12:04:120 INFO       LoginPage :41 - enter password[[ChromeDriver: chrome on WINDOWS (91e86c745c704a64e31afbd7266b1265)] -> id: password-input]
+2020-04-29 12:04:350 INFO       LoginPage :46 -  Clicking on Login Button[[ChromeDriver: chrome on WINDOWS (91e86c745c704a64e31afbd7266b1265)] -> xpath: //input[@id='submitBtnSignIn']]
+2020-04-29 12:04:400 INFO       LoginPage :50 - Get Error message text [[ChromeDriver: chrome on WINDOWS (91e86c745c704a64e31afbd7266b1265)] -> xpath: //span[@id='password.errors']]
+2020-04-29 12:04:781 INFO       BrowserSelector :20 - Launching Chrome Browser
+2020-04-29 12:04:139 INFO       HomePage :23 - Click on login or register link Proxy element for: DefaultElementLocator 'By.xpath: //span[@class='icon-fallback']'
+2020-04-29 12:04:183 INFO       LoginPage :30 - get welcome Text[[ChromeDriver: chrome on WINDOWS (1f6f388b1a4be7cf6ee70f615a98bde7)] -> xpath: //li[@class='navbar-text myprofile_salutation']]
+2020-04-29 12:04:729 INFO       BrowserSelector :20 - Launching Chrome Browser
+2020-04-29 12:04:374 INFO       BrowserSelector :20 - Launching Chrome Browser
+2020-04-29 12:04:292 INFO       BrowserSelector :20 - Launching Chrome Browser
+2020-04-29 12:04:678 INFO       HomePage :30 -  Click on service button [[ChromeDriver: chrome on WINDOWS (b1c6a352e65734eafee9bc5045462bdc)] -> xpath: //span[@class='button__text'][contains(text(),'Services')]]
+2020-04-29 12:04:380 INFO       BrowserSelector :20 - Launching Chrome Browser
+2020-04-29 12:04:519 INFO       HomePage :30 -  Click on service button [[ChromeDriver: chrome on WINDOWS (d6cc8861411abacf9c6ab661edd15cb7)] -> xpath: //span[@class='button__text'][contains(text(),'Services')]]
+2020-04-29 12:04:162 INFO       BrowserSelector :20 - Launching Chrome Browser
+2020-04-29 12:04:975 INFO       HomePage :30 -  Click on service button [[ChromeDriver: chrome on WINDOWS (063307c6f71963d04661ddcbd413f6e9)] -> xpath: //span[@class='button__text'][contains(text(),'Services')]]
+2020-04-29 12:04:28 INFO       ServicePage :24 - Get Adult Social Care Text[[ChromeDriver: chrome on WINDOWS (063307c6f71963d04661ddcbd413f6e9)] -> xpath: //a[@id='js-menu-first-item']]
+2020-04-29 12:04:934 INFO       BrowserSelector :20 - Launching Chrome Browser
+2020-04-29 12:04:731 INFO       HomePage :30 -  Click on service button [[ChromeDriver: chrome on WINDOWS (3f18dda9cb7e2c92439b6c23aa16634f)] -> xpath: //span[@class='button__text'][contains(text(),'Services')]]
+2020-04-29 12:04:793 INFO       ServicePage :24 - Get Adult Social Care Text[[ChromeDriver: chrome on WINDOWS (3f18dda9cb7e2c92439b6c23aa16634f)] -> xpath: //a[@id='js-menu-first-item']]
+2020-04-29 13:04:867 INFO       BrowserSelector :20 - Launching Chrome Browser
+2020-04-29 13:04:918 INFO       HomePage :30 -  Click on service button [[ChromeDriver: chrome on WINDOWS (7ceed9da67172a9ce044d3410d660db7)] -> xpath: //span[@class='button__text'][contains(text(),'Services')]]
+2020-04-29 13:04:974 INFO       ServicePage :23 - Get Adult Social Care Text[[ChromeDriver: chrome on WINDOWS (7ceed9da67172a9ce044d3410d660db7)] -> xpath: //a[@id='js-menu-first-item']]
+2020-04-29 13:04:932 INFO       BrowserSelector :20 - Launching Chrome Browser
+2020-04-29 13:04:535 INFO       HomePage :30 -  Click on service button [[ChromeDriver: chrome on WINDOWS (43d4d3fc5b42b85c60441cbb37554596)] -> xpath: //span[@class='button__text'][contains(text(),'Services')]]
+2020-04-29 13:04:580 INFO       ServicePage :23 - Get Adult Social Care Text[[ChromeDriver: chrome on WINDOWS (43d4d3fc5b42b85c60441cbb37554596)] -> xpath: //a[@id='js-menu-first-item']]
+2020-04-29 13:04:406 INFO       ServicePage :32 -  Clicking on close link[[ChromeDriver: chrome on WINDOWS (43d4d3fc5b42b85c60441cbb37554596)] -> xpath: //span[@class='button__text'][contains(text(),'Close')]]
+2020-04-29 13:04:806 INFO       BrowserSelector :20 - Launching Chrome Browser
+2020-04-29 13:04:499 INFO       HomePage :30 -  Click on service button [[ChromeDriver: chrome on WINDOWS (ff7ec66d5aba7a3f34fd0f9decd9a265)] -> xpath: //span[@class='button__text'][contains(text(),'Services')]]
+2020-04-29 13:04:546 INFO       ServicePage :22 - Get Adult Social Care Text[[ChromeDriver: chrome on WINDOWS (ff7ec66d5aba7a3f34fd0f9decd9a265)] -> xpath: //a[@id='js-menu-first-item']]
+2020-04-29 13:04:474 INFO       BrowserSelector :20 - Launching Chrome Browser
+2020-04-29 13:04:586 INFO       HomePage :30 -  Click on service button [[ChromeDriver: chrome on WINDOWS (ff3f660db2e96e855ed1728e5f12719b)] -> xpath: //span[@class='button__text'][contains(text(),'Services')]]
+2020-04-29 13:04:654 INFO       ServicePage :22 - Get Adult Social Care Text[[ChromeDriver: chrome on WINDOWS (ff3f660db2e96e855ed1728e5f12719b)] -> xpath: //a[@id='js-menu-first-item']]
+2020-04-29 13:04:04 INFO       ServicePage :30 -  Clicking on close link[[ChromeDriver: chrome on WINDOWS (ff3f660db2e96e855ed1728e5f12719b)] -> xpath: //span[@class='button__text'][contains(text(),'Close')]]
